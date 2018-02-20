@@ -2,7 +2,7 @@ const Hello = require("../hello-testing");
 const dummy1 = [23, 62, 45, 234, 2, 62, 234, 62, 34, 60];
 const dummy2 = [1, 2];
 const dummy3 = [70];
-
+const dummyJson = {number: 1, string: 'asd'};
 
 describe("Hello module: ", function() {
 	it("1. should return a message", function() {
