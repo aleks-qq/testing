@@ -10,6 +10,8 @@ const Hello = (function() {
   const testing2 = function() {
   	return '';
   };
+	
+	// Take this, it might be useful https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
   // Takes array of numbers and returns an array with values 60 or bigger
   const testing3 = function() {
